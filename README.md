@@ -1,6 +1,4 @@
-
-<div align="center" > ##Oii! Eu sou a Agatha Dantas😸
-</div> 
+##Oii! Eu sou a Agatha Dantas😸 
 
 
 <div >
