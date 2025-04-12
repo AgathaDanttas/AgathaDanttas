@@ -17,7 +17,7 @@
 ---
 
 ### 🤖 Tecnologias & Linguagens
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,git,github,figma,mysql&theme=dark" />
 </div>
 
