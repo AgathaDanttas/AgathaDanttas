@@ -27,3 +27,8 @@
 [![E-mail](https://img.shields.io/badge/-email-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=6ED2B6&amp;color:FFF)](mailto:workdantas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=6ED2B6&amp;color:FFF)](https://www.linkedin.com/in/Agatha-Danttas)
 [![Discord](https://img.shields.io/badge/-Discord-020114?style=for-the-badge&logo=Discord&logoColor=6ED2B6&amp;color:FFF)](https://discord.com/channels/@me)
+
+<div align="center">
+<!-- <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/> -->
+  <img height="400em" width="900em" src="/assets/Banner.png" alt="menina mexendo no computador"/>
+</div>
