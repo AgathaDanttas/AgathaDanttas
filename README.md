@@ -26,3 +26,4 @@
 ### 💻 Entre em contato comigo
 [![E-mail](https://img.shields.io/badge/-email-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=6ED2B6&amp;color:FFF)](mailto:workdantas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=6ED2B6&amp;color:FFF)](https://www.linkedin.com/in/Agatha-Danttas)
+[![Discord](https://img.shields.io/badge/-Discord-020114?style=for-the-badge&logo=Discord&logoColor=6ED2B6&amp;color:FFF)](https://discord.com/channels/@me)
