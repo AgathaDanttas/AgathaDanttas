@@ -8,11 +8,11 @@
 </div>
 
 ### Sobre mim
-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Oioi eu sou a Agatha Dantas, estudante de Desenvolvimento de Sistema
-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Tenho o objetivo de me tornar Engenheira de Software
-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Minhas Linguagens Principais, C# e Angular
-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Sempre tento ser uma pessoa educada e respeitosa, e gosto de interagir com novas pessoas
-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Combinando design e código para criar experiências únicas
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Oioi eu sou a Agatha Dantas, estudante de Desenvolvimento de Sistema <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Tenho o objetivo de me tornar Engenheira de Software <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Minhas Linguagens Principais, C# e Angular <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Sempre tento ser uma pessoa educada e respeitosa, e gosto de interagir com novas pessoas <br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Combinando design e código para criar experiências únicas <br>
 
 ---
 
