@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Agatha%20Dantas!;+Desenvolvedora%20FullStack;&color=9D56B8" />
+</h1>
 
-<!--
-**AgathaDanttas/AgathaDanttas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AgathaDanttas&show_icons=true&count_private=true&title_color=9D56B8&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaDanttas&layout=compact&title_color=9D56B8&text_color=fff&bg_color=0d1117&border_color=fff0" />
+</div>
 
-Here are some ideas to get you started:
+### Sobre mim
+- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Oioi eu sou a Agatha Dantas, estudante de Desenvolvimento de Sistema
+- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Tenho o objetivo de me tornar Engenheira de Software
+- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Minhas Linguagens Principais, C# e Angular
+- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Sempre tento ser uma pessoa educada e respeitosa, e gosto de interagir com novas pessoas
+- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code.gif" width="20px"> Combinando design e código para criar experiências únicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Tecnologias & Linguagens
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,git,github,figma,mysql&theme=dark" />
+</div>
+
+---
+
+### 💻 Entre em contato comigo
+[![E-mail](https://img.shields.io/badge/-email-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=6ED2B6&color=FFF)](mailto:workdantas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=6ED2B6&color=FFF)](https://www.linkedin.com/in/Agatha-Danttas)
