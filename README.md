@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Agatha%20Dantas!;+Desenvolvedora%20FullStack;&color=9D56B8" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Agatha%20Dantas!;+Engenheira%20de%20Software;&color=9D56B8" />
 </h1>
 
 <div align="center">
